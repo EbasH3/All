@@ -1,37 +1,55 @@
-﻿#EXTM3U
-#EXTINF:-1,MATCH! Futbol 1 FHD (Telegram: @MyAceTV)
+#EXTM3U
+#EXTINF:-1,MATCH! Futbol 1 FHD
+#EXTGRP:Спорт
 acestream://2b37d683900749f8ba7a520e3f06f012127980d4
-#EXTINF:-1,MATCH! Futbol 2 FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! Futbol 2 FHD
+#EXTGRP:Спорт
 acestream://636aacd9b73d46399fdc525ec3cb7e243a271d1b
-#EXTINF:-1,MATCH! Futbol 3 FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! Futbol 3 FHD
+#EXTGRP:Спорт
 acestream://485546bddda35f4d0ab5aba150978f600614c1a6
-#EXTINF:-1,MATCH! Premier FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! Premier FHD
+#EXTGRP:Спорт
 acestream://8cc536f05791c1e8efa8c3b0bebbac5f7b90f2a1
-#EXTINF:-1,MATCH! FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! FHD
+#EXTGRP:Спорт
 acestream://493cdbeb9463e19bb2ec72e60357d60072e3f908
-#EXTINF:-1,MATCH! Arena FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! Arena FHD
+#EXTGRP:Спорт
 acestream://77d6d3be3203cdbd22ad679b380e20edab71e82c
-#EXTINF:-1,MATCH! Igra FHD (Telegram: @MyAceTV)
+#EXTINF:-1,MATCH! Igra FHD
+#EXTGRP:Спорт
 acestream://01b9d7b44e9f03a03148b71220d3d14a4c83b841
-#EXTINF:-1,KHL TV FHD (Telegram: @MyAceTV)
+#EXTINF:-1,KHL TV FHD
+#EXTGRP:Спорт
 acestream://449410dd8080750be75a8272f32a58ab2b20f4e1
-#EXTINF:-1,Belarus 5 FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Belarus 5 FHD
+#EXTGRP:Спорт
 acestream://f7d884a3131387319b30bf5fac036445d3768c30
 #EXTINF:-1,TV3 Sport FHD (интершум)
+#EXTGRP:Спорт
 acestream://4c2e191f220f274e06f3c4da0fe5b52db2a555d9
-#EXTINF:-1,Setanta Sports 1 FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Setanta Sports 1 FHD
+#EXTGRP:Спорт
 acestream://9ca74a6d12df5b27cbfccf369b2bac073f3cea7a
-#EXTINF:-1,Setanta Sports 2 FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Setanta Sports 2 FHD
+#EXTGRP:Спорт
 acestream://442d82a001a3160d895b93c1d6efb6e746faf755
-#EXTINF:-1,Setanta Sports Ukraine FHD (RU/UA) (Telegram: @MyAceTV)
+#EXTINF:-1,Setanta Sports Ukraine FHD (RU/UA)
+#EXTGRP:Спорт
 acestream://c8991f3ec7415e58644bf49658dfa5cee7a77233
-#EXTINF:-1,Setanta Sports+ Ukraine FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Setanta Sports+ Ukraine FHD
+#EXTGRP:Спорт
 acestream://781b64c460027a9d3b1ac382980c845888e19a2d
-#EXTINF:-1,Futbol 1 (Ukraine) FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Futbol 1 (Ukraine) FHD
+#EXTGRP:Спорт
 acestream://afc3cfb74616ca5359319f45fafb0848658439e6
-#EXTINF:-1,Futbol 2 (Ukraine) FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Futbol 2 (Ukraine) FHD
+#EXTGRP:Спорт
 acestream://9f511bff4e950c784a4e09da6e9549c465e5b15c
-#EXTINF:-1,Futbol 3 (Ukraine) FHD (Telegram: @MyAceTV)
+#EXTINF:-1,Futbol 3 (Ukraine) FHD
+#EXTGRP:Спорт
 acestream://3a6ea471d35d383ba088140a5685ce41793eb977
-#EXTINF:-1,OKKO HD (Telegram: @MyAceTV)
+#EXTINF:-1,OKKO HD
+#EXTGRP:Спорт
 acestream://56396bdf48ccc89cbd325e76f970ab6432eb071e
